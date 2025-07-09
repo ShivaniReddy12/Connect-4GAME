@@ -1,4 +1,5 @@
 🎮 Connect 4 Game
+
 This is a simple implementation of the Connect 4 Game using HTML, CSS, and JavaScript.
 Players take turns dropping their discs into the columns of the board. The first player to form a horizontal, vertical, or diagonal line of 4 discs wins the game.
 
