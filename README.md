@@ -15,6 +15,8 @@ Simple and clean design.
 Automatic reset after the game ends.
 
 🖥️ Technologies Used
+
+
 HTML
 
 CSS
@@ -22,5 +24,5 @@ CSS
 JavaScript
 
 🌐 Live Demo
-👉 🌐 Live Demo
+
 👉 Click Here to Play Connect 4 Online("file:///C:/Users/User/OneDrive/Desktop/connect4%20game/index.html")
