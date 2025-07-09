@@ -25,4 +25,4 @@ JavaScript
 
 🌐 Live Demo
 
-👉 Click Here to Play Connect 4 Online("file:///C:/Users/User/OneDrive/Desktop/connect4%20game/index.html")
+👉 Click Here to Play Connect 4 Online("https://shivanireddy12.github.io/Connect-4GAME/")
